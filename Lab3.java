@@ -9,7 +9,7 @@ public class Lab3 {
 		Scanner scnr = new Scanner(System.in);
 
 		// Prompt user to enter integer between 1 and 100
-		System.out.println("Enter and integer between 1 and 100");
+		System.out.println("Enter an integer between 1 and 100");
 		int initialInt = scnr.nextInt();
 
 		// Logic using if else and displaying result
